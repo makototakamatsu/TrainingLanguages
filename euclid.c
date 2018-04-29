@@ -3,7 +3,7 @@
 
 int gcd(int a0,int a1);
 
-main(){
+main(void){
   int a0,a1,tmp;
   printf("Type in the first integer\n");
   scanf("%d",&a0);
